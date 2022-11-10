@@ -1,9 +1,10 @@
 # Farm Stead Model's
 
 We Uploaded **4 Models**.
-2 Models for Crop Recomendation (Nazif Malhi)
-1 Model for Fertilizer Recomendation (Nazif Malhi)
-1 Model for Pest Detection (Noor us Sabbah)
+
+  i). 2 Models for Crop Recomendation.
+ ii). 1 Model for Fertilizer Recomendation.
+ iii). 1 Model for Pest Detection (Noor us Sabbah).
 
 
 ## Pest Detection
