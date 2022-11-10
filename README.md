@@ -15,7 +15,7 @@ The model is intended to classify the 9 different classes of pests targeted in o
 
 ## Crop Recomendation
 ### Crop Recomendation Model 1 (Simple)
-[Simple Model](https://www.kaggle.com/datasets/jayakumarv/crop-dataset) simple features of an area like “soil, temperature, humidity, pH value and rainfall”. This dataset is targeted for the farmers who have no equipment or apparatus for testing the soil for advance features
+[Simple Model](https://www.kaggle.com/datasets/jayakumarv/crop-dataset) has simple features of an area like “soil, temperature, humidity, pH value and rainfall”. This dataset is targeted for the farmers who have no equipment or apparatus for testing the soil for advance features
 ### Crop Recomendation Model 2 (Advance)
 This feature will also provide the second option for farmers who have the equipment to calculate the amount of minerals in the soil. For advance option, the other detailed dataset [Advance Dataset](https://www.kaggle.com/datasets/shekharyada/croppredict)  used which will recommend the crop using the advance features like “percentage of Nitrogen(N), Phosphorus(P), Potassium(K) in soil along with the basic features used for the first option. The targeted crops that will be recommended by the application are: 
 
