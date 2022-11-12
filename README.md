@@ -4,7 +4,7 @@ We Uploaded **4 Models**.
 
   i). 2 Models for Crop Recomendation.
  ii). 1 Model for Fertilizer Recomendation.
- iii). 1 Model for Pest Detection (Noor us Sabbah).
+ iii). 1 Model for Pest Detection.
 
 
 ## Pest Detection
